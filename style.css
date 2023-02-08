@@ -1,7 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: black;
+    box-sizing: border-box;
+}
+
+
 #_bg__android_large___1 {
 	top: 0px;
 	left: 0px;
-	width: 380px;
+	width: 400px;
 	height: 800px;
 	background:rgba(0,0,0,1);
 }
@@ -25,7 +33,7 @@
 	height: 36.5px;
 	overflow: hidden;
 	font-family: sans-serif;
-	margin-left: 10px;
+	margin-left: 15px;
 	margin-top: -25px;
 	font-size: 13px;
 	text-align: left;
