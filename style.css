@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: black;
+    box-sizing: border-box;
+}
+html{
+	font-size: 62.5%;
+}
+#_bg__desktop___2 {
+	top: 0rem;
+	left: 0rem;
+	width: 133.4rem;
+	height: 85rem;
+	background:rgb(0, 0, 0);
+}
+.rectangle_1 {
+	top: 0rem;
+	left: 0rem;
+	width: 133.4rem;
+	height: 5rem;
+	background:rgb(0, 0, 0);
+}
+.rectangle_2{
+	width: 133.4rem;
+	height: 26.4rem;
+	margin: 0rem auto;
+}
+.rectangle_2 img{
+	width: 100%;
+	height: 100%;
+}
+.img1{
+	object-fit: cover;
+}
+#portfolio {
+	margin-top: 1.5rem;
+	margin-left: 63.6rem;
+	width: 11.7rem;
+	height: 4.4rem;
+	overflow: hidden;
+	font-family: var();
+	font-size: 2rem;
+	text-align: left;
+	color:#FFFFFF;
+}
+h2{
+	margin-top: 4rem;
+	margin-left: 52rem;
+	font-family: sans-serif;
+	font-size: 2.5rem;
+	color: #ffffff;
+	text-align: left;
+}
+h1{
+	margin-top: -4.5rem;
+	margin-left: 58rem;
+	font-family: sans-serif;
+	font-size: 4rem;
+	color: #47b2ff;
+	text-align: left;
+}
+section{
+	margin-top: -4.5rem;
+	margin-left: 14rem;
+	font-family: sans-serif;
+	font-size: 4rem;
+	color: #f185ff;
+	text-align: left;
+}
+h3{
+	margin-top: 1rem;
+	margin-left: 42rem;
+	font-family: sans-serif;
+	font-size: 2rem;
+	color: #fefefe;
+	text-align: left;
+}
+h4{
+	width: 57rem;
+	margin-left: 42rem;
+	margin-top: 0.5rem;
+	font-family: sans-serif;
+	font-size: 1.5rem;
+	color: #929292;
+	text-align: left;
+}
+h5{
+	margin-top: 1rem;
+	margin-left: 52rem;
+	font-family: sans-serif;
+	font-size: 4rem;
+	color: #ffffff;
+	text-align: left;
+}
+.insta{
+	position:absolute;
+	margin-top: 20rem;
+	float: right;
+	margin-left: 50rem;
+	cursor: pointer;
+	width: 4rem;
+	height: 4rem;
+}
+.linkedin{
+	position:absolute;
+	margin-top: 20rem;
+	float: right;
+	margin-left: 58rem;
+	cursor: pointer;
+	width: 4rem;
+	height: 4rem;
+}
+.github{
+	position:absolute;
+	border-radius: 1rem;
+	margin-top: 20rem;
+	float: right;
+	margin-left: 66rem;
+	cursor: pointer;
+	width: 4rem;
+	height: 4rem;
+}
+.twitter{
+	position:absolute;
+	border-radius: 1rem;
+	margin-top: 20rem;
+	float: right;
+	margin-left: 74rem;
+	cursor: pointer;
+	width: 4rem;
+	height: 4rem;
+}
+.behance{position:absolute;
+	border-radius: 1rem;
+	margin-top: 20rem;
+	float: right;
+	margin-left: 82rem;
+	cursor: pointer;
+	width: 4rem;
+	height: 4rem;
+}
+.projects{position:absolute;
+	border-radius: 1rem;
+	margin-top: 10rem;
+	float: right;
+	margin-left: 60rem;
+	cursor: pointer;
+	width: 17rem;
+	height: 4rem;
+}
+@media(max-width:975px){
+	html{
+		font-size: 55%;
+	}
+}
+@media(max-width:750px){
+	html{
+		font-size: 45%;
+	}
+}
+@media(max-width:450px){
+
+}
